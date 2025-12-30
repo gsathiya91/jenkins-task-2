@@ -3,4 +3,4 @@
 echo "Build triggered successfully!"
 date
 hostname
-echo "Setup completed successfully!!!"
+echo "Setup completed successfully!!!."
